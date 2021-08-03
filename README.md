@@ -22,14 +22,11 @@ I am Lucas Lima and I am i am an aspiring to developer who is very interested in
  </ul>
  
  <h3>
-👩‍💻 Tech that I currently use
+👩‍💻 Technologies I'm learning
 </h3>
  <ul>
-  <li> Python, Django, Flask, Java, Go </li>
-  <li> Postgres, MySQL, MongoDB, Redis </li>
-  <li> Pyspark, Hadoop, Pandas, Hive </li>
-  <li> AWS, AWS S3, AWS SQS, AWS SNS </li>
-  <li> Docker, Terraform </li>
+  <li> Python, Java </li>
+  <li> MySQL</li>
  </ul>
 
 <h3>
@@ -37,10 +34,8 @@ I am Lucas Lima and I am i am an aspiring to developer who is very interested in
 </h3>
 <samp>
   
-- :art: Personal blog: https://mayaramachado.dev/ <br>
-- :art: Dev.to: https://dev.to/mayaramachado/ <br>
-- :pencil: Resume: https://mayaramachado.dev/about/ <br>
-- :briefcase: LinkedIn: https://www.linkedin.com/in/mayaramachado/ <br>
+- :art: Facebook: https://www.facebook.com/luquita124/ <br>
+- :briefcase: LinkedIn: https://www.linkedin.com/in/lucas-de-lima-chaves-9278b698// <br>
 </samp>
 </p>
 
