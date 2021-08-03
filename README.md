@@ -40,6 +40,6 @@ I am Lucas Lima and I am i am an aspiring to developer who is very interested in
 </p>
 
 <p align="center">
-    <img src="https://media4.giphy.com/media/3IFDC29z1R8tQOU5Ha/giphy.gif?cid=ecf05e47s7p8dawsryg2ngztwxm5ss3q7wordmze90oows1i&rid=giphy.gif&ct=g"  width="200px">
+    <img src="https://media0.giphy.com/media/ZBythhSiZAoYea6vC2/giphy.gif"  width="200px">
 
 </p>
