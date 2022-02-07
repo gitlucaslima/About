@@ -7,7 +7,7 @@
 Hello, I'm Lucas Lima! 👋 
 </h3>
  <samp>
-I am Lucas Lima and I am i am an aspiring to developer who is very interested in the programming and data security! I love pizza, music, animes and sports a good cup of tea and sharing knowledge. Welcome to my Github page!
+I am Lucas Lima and i am an aspiring to developer who is very interested in the programming and data security! I love pizza, music, animes and sports a good cup of tea and sharing knowledge. Welcome to my Github page!
   </samp>
 </p>
 
