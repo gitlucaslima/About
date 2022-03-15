@@ -25,7 +25,8 @@ I am Lucas Lima and i am an aspiring to developer who is very interested in the 
 👩‍💻 Technologies I'm learning
 </h3>
  <ul>
-  <li> Python, Java </li>
+  <li> Python, Django </li>
+  <li> CSS, HTML</li>
   <li> MySQL</li>
  </ul>
 
